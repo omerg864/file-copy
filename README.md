@@ -1,4 +1,4 @@
-# File copy from currpted hrad drive
+# File copy from currpted hard drive
 
 This program copies specified types of files from one directory to another.
 
